@@ -30,3 +30,4 @@ console.log(typeof student)
 isNaN('12');
 isNaN('ab');
 isNaN(12);
+isNaN('something')
